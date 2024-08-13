@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: black;
+}
+
+.avatar {
+    width: 150px;
+    height: 200px;
+    border: 2px solid #023047;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    background: #e9d8a6;
+    color: #403d39;
+    border-top: 6px solid #8d99ae;
+    border-bottom: 6px solid #023047;
+    border-radius: 5px 5px 20px 20px;
+}
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
